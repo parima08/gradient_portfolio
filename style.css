@@ -1,0 +1,15 @@
+.full-site{
+	padding: 40px
+}
+
+.top-nav{
+	height: 50px;
+	width: 100%;
+	background-color: red;
+}
+
+.main-content{
+	background-color: blue;
+	width: 100%;
+	height: calc(100% - 90px);
+}
